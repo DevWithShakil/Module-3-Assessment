@@ -7,7 +7,7 @@ if (!file_exists($filename)) {
     file_put_contents($filename, "");
 }
 
-echo "Simple ToDo App (Terminal Based)\n";
+echo "Simple ToDo App\n";
 echo "===============================\n";
 echo "1. View Tasks\n";
 echo "2. Add Task\n";
